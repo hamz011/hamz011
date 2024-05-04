@@ -1,6 +1,6 @@
-# 🐍 Merhaba Dünya! Benim Yılan Oyunum 🍎
+# 🐍 Merhaba Dünya!🍎
 
-![Yılan Oyunu Gif](![Giphy GIF](https://giphy.com/embed/zPdwt79PXjMEo)
+![Hello PNG](![Giphy PNG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fhello&psig=AOvVaw0RyPQoPehCaqwBCtkzhDm1&ust=1714932057486000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC4ovLJ9IUDFQAAAAAdAAAAABAE)
 )
 
 Hoş geldiniz! Benim GitHub profilimdeki yılan oyununa hoş geldiniz. Bu yılan oyunu klasik yılan oyununu modern bir tarzda yeniden tasarladım ve GitHub profilimde sergilemekten mutluluk duyuyorum.
