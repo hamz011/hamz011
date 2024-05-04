@@ -1,7 +1,7 @@
-# 🐍 Merhaba Dünya!🍎
+# 🐍 Merhaba Dünya! 🍎
 
-![Hello PNG](![Giphy PNG](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Fhello&psig=AOvVaw0RyPQoPehCaqwBCtkzhDm1&ust=1714932057486000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC4ovLJ9IUDFQAAAAAdAAAAABAE)
-)
+![Hello PNG](link_to_your_hello_png_image.png)
+
 
 Hoş geldiniz! Benim GitHub profilimdeki yılan oyununa hoş geldiniz. Bu yılan oyunu klasik yılan oyununu modern bir tarzda yeniden tasarladım ve GitHub profilimde sergilemekten mutluluk duyuyorum.
 
