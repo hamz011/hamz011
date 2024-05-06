@@ -1,3 +1,7 @@
-#     (https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif) Merhaba Dünya! (https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif) Hello World![World](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif)
+# Merhaba Dünya! Hello World! 🌎
+
+![Hi GIF](https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif)
+
+![Earth GIF](https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif)
 
 ![Hello PNG](hello.png)
