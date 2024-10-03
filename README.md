@@ -4,6 +4,6 @@
 ##       Merhaba benim adım Hamza
 
 
-![Hello PNG](hello.png)
+
 
 # [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue)](https://www.instagram.com/hamza6038_0/)
