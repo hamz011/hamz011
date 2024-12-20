@@ -28,3 +28,4 @@ jobs:
           publish_dir: ./dist  # Yılan animasyonunun bulunduğu dizin
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Burada PAT kullanıyoruz
+          publish_dir: ./public
