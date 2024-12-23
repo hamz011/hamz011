@@ -27,4 +27,4 @@ jobs:
         with:
           publish_dir: ./dist  # Yılan animasyonunun bulunduğu dizin
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}  # Burada token'ı secrets'tan alıyoruz
+          GITHUB_TOKEN: ${{ secrets.GENERATE_SNAKE }}  # Burada token'ı secrets'tan alıyoruz
